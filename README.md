@@ -1,2 +1,2 @@
 # My-portfolio
-Created with CodeSandbox
+This is my portfolio which contains all my neog projects and blogs
